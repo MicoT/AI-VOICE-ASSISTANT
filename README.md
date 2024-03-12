@@ -6,7 +6,7 @@ This repository contains code for a Chat GPT voice assistant implemented on a Ra
 
 To install the required dependencies, run the following commands:
 
-```bash
+``bash
 sudo apt install python3-pyaudio flac mpg321 python3-tk -y
 sudo pip3 install gtts speechrecognition openai
 
